@@ -1,3 +1,3 @@
-# p5-starter-app
+# p5-escape-game
 
 Escape game, theme TBD
